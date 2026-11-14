@@ -1,0 +1,221 @@
+appid,name,release_date,price,positive,negative,estimated_owners,peak_ccu,metacritic_score,average_playtime_forever,windows,mac,linux,genres,developers,publishers,recommendations
+8000000,Demo Game 001,2025-04-05,0.0,819,6074,50000 - 100000,419,88,8935,True,True,False,['Adventure'],['Example Studio'],['Demo Publisher'],1791
+8000001,Demo Game 002,2012-12-21,29.99,19726,217,200000 - 250000,2872,79,6873,True,True,False,['Indie'],['Example Studio'],['Demo Publisher'],3462
+8000002,Demo Game 003,2015-02-03,4.99,5094,1763,1000000 - 1100000,1556,51,5881,True,False,False,['Racing'],['Example Studio'],['Demo Publisher'],4392
+8000003,Demo Game 004,2008-06-19,14.99,2582,4522,50000 - 550000,787,90,1139,True,True,True,"['Adventure', 'RPG']",['Example Studio'],['Demo Publisher'],827
+8000004,Demo Game 005,2017-03-12,4.99,14857,5207,1000000 - 1100000,1455,58,4374,True,False,False,['Puzzle'],['Example Studio'],['Demo Publisher'],1401
+8000005,Demo Game 006,2022-05-21,59.99,8021,1338,100000 - 300000,2818,80,3598,True,False,False,['RPG'],['Example Studio'],['Demo Publisher'],262
+8000006,Demo Game 007,2015-12-11,14.99,8773,542,20000 - 520000,870,86,8179,True,True,False,"['Indie', 'Simulation']",['Example Studio'],['Demo Publisher'],1143
+8000007,Demo Game 008,2012-07-19,59.99,18394,4415,50000 - 550000,1635,68,3593,True,False,True,"['Adventure', 'Action']",['Example Studio'],['Demo Publisher'],898
+8000008,Demo Game 009,2009-10-03,49.99,5242,6488,500000 - 700000,1576,69,9763,True,False,False,"['Action', 'Adventure', 'Simulation']",['Example Studio'],['Demo Publisher'],2786
+8000009,Demo Game 010,2008-12-24,4.99,14246,1295,100000 - 120000,1078,77,2927,True,False,True,"['Simulation', 'Casual', 'RPG']",['Example Studio'],['Demo Publisher'],1252
+8000010,Demo Game 011,2016-01-20,0.0,17674,7811,1000000 - 1500000,1327,76,319,True,True,False,"['RPG', 'Action']",['Example Studio'],['Demo Publisher'],1973
+8000011,Demo Game 012,2023-09-25,0.0,2806,5995,100000 - 120000,515,53,7787,True,False,True,"['Puzzle', 'Sports', 'RPG']",['Example Studio'],['Demo Publisher'],4417
+8000012,Demo Game 013,2011-08-17,59.99,10214,3268,500000 - 600000,1849,52,4061,True,True,False,"['Casual', 'RPG', 'Puzzle']",['Example Studio'],['Demo Publisher'],58
+8000013,Demo Game 014,2007-01-28,59.99,20679,482,20000 - 40000,1353,49,8423,True,True,False,['Casual'],['Example Studio'],['Demo Publisher'],1083
+8000014,Demo Game 015,2023-07-07,39.99,15488,1990,1000000 - 1200000,386,51,7062,True,True,False,"['Action', 'Adventure', 'Puzzle']",['Example Studio'],['Demo Publisher'],3298
+8000015,Demo Game 016,2015-08-05,0.0,8147,1569,20000 - 520000,1728,56,4563,True,False,False,['Racing'],['Example Studio'],['Demo Publisher'],4508
+8000016,Demo Game 017,2008-02-25,0.0,21369,4428,1000000 - 1020000,968,55,6658,True,False,True,"['Action', 'Indie']",['Example Studio'],['Demo Publisher'],3104
+8000017,Demo Game 018,2005-05-14,14.99,8690,7590,1000000 - 1200000,2853,91,9105,True,False,False,['Simulation'],['Example Studio'],['Demo Publisher'],1783
+8000018,Demo Game 019,2006-01-02,39.99,24108,4441,0 - 100000,2392,75,8238,True,False,False,['Casual'],['Example Studio'],['Demo Publisher'],656
+8000019,Demo Game 020,2010-07-04,0.0,19498,556,500000 - 550000,2333,60,9485,True,False,False,"['Puzzle', 'Casual']",['Example Studio'],['Demo Publisher'],2591
+8000020,Demo Game 021,2013-05-13,2.99,21945,5867,50000 - 100000,536,87,4915,True,False,False,['Action'],['Example Studio'],['Demo Publisher'],3754
+8000021,Demo Game 022,2024-09-09,39.99,3276,600,200000 - 250000,542,67,1127,True,False,False,['Racing'],['Example Studio'],['Demo Publisher'],4450
+8000022,Demo Game 023,2014-05-22,39.99,21429,4333,0 - 500000,424,53,4333,True,True,True,"['Indie', 'Simulation', 'Casual']",['Example Studio'],['Demo Publisher'],4954
+8000023,Demo Game 024,2011-09-16,59.99,11235,1667,500000 - 600000,1028,48,1512,True,False,False,['Action'],['Example Studio'],['Demo Publisher'],2732
+8000024,Demo Game 025,2009-09-23,49.99,8583,1323,500000 - 700000,1751,80,158,True,True,False,"['Indie', 'Casual', 'Action']",['Example Studio'],['Demo Publisher'],3024
+8000025,Demo Game 026,2023-05-12,29.99,4852,3520,20000 - 40000,163,67,3441,True,False,False,"['Casual', 'Sports']",['Example Studio'],['Demo Publisher'],1266
+8000026,Demo Game 027,2012-03-24,0.0,5801,7220,100000 - 120000,1360,95,6745,True,False,False,['Simulation'],['Example Studio'],['Demo Publisher'],1304
+8000027,Demo Game 028,2008-04-27,14.99,1268,7033,100000 - 150000,1885,67,5000,True,False,False,['Action'],['Example Studio'],['Demo Publisher'],1582
+8000028,Demo Game 029,2017-06-21,9.99,9129,7080,0 - 100000,2086,70,8785,True,True,True,"['Indie', 'Simulation']",['Example Studio'],['Demo Publisher'],313
+8000029,Demo Game 030,2008-07-20,39.99,14239,2831,500000 - 600000,2094,52,6311,True,False,True,['Sports'],['Example Studio'],['Demo Publisher'],13
+8000030,Demo Game 031,2021-06-14,29.99,22506,5893,500000 - 550000,286,87,5409,True,False,False,['Simulation'],['Example Studio'],['Demo Publisher'],4154
+8000031,Demo Game 032,2014-09-05,49.99,13382,2672,100000 - 200000,785,71,6211,True,False,False,"['Puzzle', 'Simulation', 'Sports']",['Example Studio'],['Demo Publisher'],4488
+8000032,Demo Game 033,2005-10-21,4.99,9401,1721,100000 - 600000,1319,74,7238,True,False,True,"['Indie', 'Adventure']",['Example Studio'],['Demo Publisher'],2324
+8000033,Demo Game 034,2021-04-22,49.99,20740,5072,50000 - 70000,1271,59,3262,True,True,True,"['Puzzle', 'Adventure']",['Example Studio'],['Demo Publisher'],3730
+8000034,Demo Game 035,2018-08-13,49.99,18863,1592,500000 - 700000,999,54,90,True,False,False,['Sports'],['Example Studio'],['Demo Publisher'],1792
+8000035,Demo Game 036,2010-04-28,59.99,16972,3805,0 - 500000,497,74,2184,True,False,False,"['Puzzle', 'Strategy', 'Racing']",['Example Studio'],['Demo Publisher'],4135
+8000036,Demo Game 037,2018-08-09,29.99,14611,7349,20000 - 220000,1012,85,4543,True,False,False,"['RPG', 'Simulation', 'Racing']",['Example Studio'],['Demo Publisher'],634
+8000037,Demo Game 038,2014-02-05,2.99,8903,2751,50000 - 550000,617,59,6275,True,False,False,['Sports'],['Example Studio'],['Demo Publisher'],3339
+8000038,Demo Game 039,2015-07-13,29.99,15267,3406,0 - 50000,2392,89,320,True,False,False,"['Racing', 'Action']",['Example Studio'],['Demo Publisher'],2881
+8000039,Demo Game 040,2014-10-08,14.99,13730,4409,500000 - 1000000,1999,59,4471,True,False,True,"['Sports', 'Indie']",['Example Studio'],['Demo Publisher'],3828
+8000040,Demo Game 041,2009-10-22,39.99,17502,220,100000 - 600000,111,50,7022,True,True,False,['Simulation'],['Example Studio'],['Demo Publisher'],3105
+8000041,Demo Game 042,2015-05-25,2.99,14899,2677,50000 - 250000,1726,61,1341,True,False,False,['Strategy'],['Example Studio'],['Demo Publisher'],1836
+8000042,Demo Game 043,2025-04-07,0.0,21356,329,1000000 - 1020000,83,84,2496,True,True,False,['Puzzle'],['Example Studio'],['Demo Publisher'],1785
+8000043,Demo Game 044,2019-10-20,59.99,8396,6282,50000 - 100000,2942,52,2683,True,False,True,['Simulation'],['Example Studio'],['Demo Publisher'],4716
+8000044,Demo Game 045,2017-12-27,14.99,23429,1624,0 - 500000,2569,60,1669,True,False,False,"['Puzzle', 'Adventure', 'Action']",['Example Studio'],['Demo Publisher'],2844
+8000045,Demo Game 046,2022-11-11,14.99,21676,3035,0 - 500000,51,71,8031,True,True,False,"['Racing', 'Indie', 'Sports']",['Example Studio'],['Demo Publisher'],1442
+8000046,Demo Game 047,2021-08-15,49.99,8850,5045,1000000 - 1500000,1784,91,9707,True,True,False,['Simulation'],['Example Studio'],['Demo Publisher'],3692
+8000047,Demo Game 048,2012-06-01,19.99,18672,4999,500000 - 700000,2024,65,2979,True,False,False,"['Strategy', 'Simulation']",['Example Studio'],['Demo Publisher'],4883
+8000048,Demo Game 049,2013-04-24,29.99,332,4232,20000 - 40000,1664,76,9096,True,False,False,"['Racing', 'Puzzle', 'Action']",['Example Studio'],['Demo Publisher'],762
+8000049,Demo Game 050,2014-11-19,2.99,13251,5667,20000 - 120000,1511,75,9068,True,False,False,"['Casual', 'Strategy', 'Puzzle']",['Example Studio'],['Demo Publisher'],3717
+8000050,Demo Game 051,2013-06-04,4.99,8237,1888,0 - 50000,2194,93,3033,True,True,False,"['Puzzle', 'Casual']",['Example Studio'],['Demo Publisher'],4888
+8000051,Demo Game 052,2014-03-10,0.0,6360,2426,20000 - 120000,57,90,8751,True,True,True,['Casual'],['Example Studio'],['Demo Publisher'],2393
+8000052,Demo Game 053,2009-10-10,49.99,24667,4021,0 - 20000,1922,75,7216,True,True,False,"['Racing', 'Adventure']",['Example Studio'],['Demo Publisher'],535
+8000053,Demo Game 054,2017-03-05,19.99,2427,4726,500000 - 520000,2305,64,1395,True,False,True,"['Puzzle', 'RPG']",['Example Studio'],['Demo Publisher'],4280
+8000054,Demo Game 055,2017-07-10,19.99,14507,2435,1000000 - 1500000,2329,84,986,True,False,False,['RPG'],['Example Studio'],['Demo Publisher'],2167
+8000055,Demo Game 056,2007-03-01,0.0,7859,1423,200000 - 220000,1673,73,9729,True,False,True,"['Simulation', 'Racing']",['Example Studio'],['Demo Publisher'],583
+8000056,Demo Game 057,2012-07-04,4.99,20481,4831,500000 - 550000,2230,59,2441,True,False,False,['Action'],['Example Studio'],['Demo Publisher'],1359
+8000057,Demo Game 058,2014-08-04,39.99,24541,6752,200000 - 300000,1919,89,4982,True,False,False,"['Casual', 'Racing', 'Puzzle']",['Example Studio'],['Demo Publisher'],658
+8000058,Demo Game 059,2024-05-01,0.0,14156,6017,50000 - 550000,374,59,9424,True,False,True,"['Simulation', 'Action', 'Indie']",['Example Studio'],['Demo Publisher'],3854
+8000059,Demo Game 060,2021-10-14,49.99,14490,7504,50000 - 100000,2600,76,1494,True,False,False,"['Adventure', 'Indie']",['Example Studio'],['Demo Publisher'],2701
+8000060,Demo Game 061,2018-09-02,59.99,16235,2361,500000 - 700000,1862,50,5153,True,True,True,"['Casual', 'Action']",['Example Studio'],['Demo Publisher'],4444
+8000061,Demo Game 062,2019-10-25,14.99,1776,1536,200000 - 300000,2041,85,7242,True,False,True,"['Indie', 'Simulation', 'Racing']",['Example Studio'],['Demo Publisher'],3970
+8000062,Demo Game 063,2008-12-06,0.0,20644,4987,1000000 - 1050000,1272,80,224,True,False,True,['Racing'],['Example Studio'],['Demo Publisher'],962
+8000063,Demo Game 064,2025-09-23,0.0,16330,7640,500000 - 600000,1119,71,7905,True,False,True,"['Indie', 'Sports', 'RPG']",['Example Studio'],['Demo Publisher'],4910
+8000064,Demo Game 065,2021-07-11,59.99,4473,7078,0 - 100000,2079,62,42,True,True,False,"['Puzzle', 'Racing', 'Indie']",['Example Studio'],['Demo Publisher'],3658
+8000065,Demo Game 066,2022-07-15,19.99,11309,2723,200000 - 700000,1318,57,3912,True,False,True,"['Action', 'Strategy']",['Example Studio'],['Demo Publisher'],3874
+8000066,Demo Game 067,2017-08-02,14.99,21747,6491,1000000 - 1050000,517,77,9669,True,True,True,"['Adventure', 'Casual']",['Example Studio'],['Demo Publisher'],3743
+8000067,Demo Game 068,2005-02-16,59.99,4723,3358,1000000 - 1050000,1085,66,6512,True,False,False,"['Casual', 'Sports', 'Strategy']",['Example Studio'],['Demo Publisher'],3997
+8000068,Demo Game 069,2022-04-24,0.0,20232,560,20000 - 120000,370,72,1612,True,False,False,['Racing'],['Example Studio'],['Demo Publisher'],1362
+8000069,Demo Game 070,2014-05-12,0.0,1507,2657,1000000 - 1020000,1535,72,2385,True,True,False,"['Indie', 'Puzzle', 'Casual']",['Example Studio'],['Demo Publisher'],646
+8000070,Demo Game 071,2024-10-05,14.99,20306,5596,20000 - 220000,951,74,4161,True,False,False,"['Simulation', 'Casual']",['Example Studio'],['Demo Publisher'],1294
+8000071,Demo Game 072,2007-12-09,19.99,11323,4813,50000 - 250000,1871,64,3263,True,False,False,['RPG'],['Example Studio'],['Demo Publisher'],3124
+8000072,Demo Game 073,2023-01-27,9.99,18835,2423,500000 - 600000,2696,70,4497,True,True,False,"['Action', 'Racing', 'Simulation']",['Example Studio'],['Demo Publisher'],1885
+8000073,Demo Game 074,2024-05-22,9.99,7176,5215,20000 - 520000,2952,94,2240,True,False,False,"['Action', 'Simulation', 'Racing']",['Example Studio'],['Demo Publisher'],273
+8000074,Demo Game 075,2023-06-24,9.99,23997,1076,0 - 100000,1701,56,3289,True,True,False,"['Casual', 'Puzzle']",['Example Studio'],['Demo Publisher'],2232
+8000075,Demo Game 076,2010-12-28,4.99,15789,7924,1000000 - 1100000,1387,52,7673,True,False,True,['Sports'],['Example Studio'],['Demo Publisher'],4565
+8000076,Demo Game 077,2016-02-15,0.0,12929,114,50000 - 550000,1509,88,4295,True,False,False,"['Adventure', 'RPG']",['Example Studio'],['Demo Publisher'],3862
+8000077,Demo Game 078,2005-11-03,39.99,18396,2687,200000 - 250000,2602,74,4951,True,False,True,['Action'],['Example Studio'],['Demo Publisher'],2493
+8000078,Demo Game 079,2020-07-15,0.0,3184,1923,200000 - 250000,1519,87,8850,True,False,False,['Sports'],['Example Studio'],['Demo Publisher'],811
+8000079,Demo Game 080,2020-12-12,39.99,13373,7692,50000 - 70000,889,73,7285,True,False,False,['Strategy'],['Example Studio'],['Demo Publisher'],4460
+8000080,Demo Game 081,2025-02-28,9.99,1984,3261,50000 - 100000,1862,50,3475,True,False,False,['Action'],['Example Studio'],['Demo Publisher'],2732
+8000081,Demo Game 082,2012-04-19,0.0,18500,1681,0 - 500000,884,59,5383,True,False,False,"['Action', 'Simulation', 'Indie']",['Example Studio'],['Demo Publisher'],1064
+8000082,Demo Game 083,2022-03-01,4.99,5717,900,500000 - 520000,1467,95,3898,True,False,True,"['Action', 'Indie']",['Example Studio'],['Demo Publisher'],3448
+8000083,Demo Game 084,2021-06-17,0.0,24433,520,100000 - 300000,2431,51,7405,True,False,False,['Casual'],['Example Studio'],['Demo Publisher'],2470
+8000084,Demo Game 085,2019-07-22,49.99,1020,498,100000 - 300000,442,76,7267,True,True,True,"['Indie', 'Adventure', 'Puzzle']",['Example Studio'],['Demo Publisher'],2252
+8000085,Demo Game 086,2024-07-20,49.99,19181,4492,500000 - 600000,2173,63,7433,True,False,False,"['Adventure', 'Casual', 'RPG']",['Example Studio'],['Demo Publisher'],3523
+8000086,Demo Game 087,2019-07-14,2.99,13559,2776,1000000 - 1200000,2988,51,5120,True,False,False,"['Indie', 'Racing']",['Example Studio'],['Demo Publisher'],549
+8000087,Demo Game 088,2007-03-18,0.0,3054,3537,0 - 100000,245,82,9201,True,False,False,"['Strategy', 'Sports']",['Example Studio'],['Demo Publisher'],421
+8000088,Demo Game 089,2014-09-07,39.99,10238,2880,0 - 500000,633,87,7900,True,True,True,"['Strategy', 'Adventure', 'Simulation']",['Example Studio'],['Demo Publisher'],4703
+8000089,Demo Game 090,2012-10-22,14.99,18381,7983,1000000 - 1500000,2632,80,430,True,False,False,"['Simulation', 'Action', 'Indie']",['Example Studio'],['Demo Publisher'],2238
+8000090,Demo Game 091,2014-10-22,9.99,11502,50,20000 - 70000,1641,49,2324,True,False,False,['Casual'],['Example Studio'],['Demo Publisher'],1762
+8000091,Demo Game 092,2017-05-24,14.99,14865,2792,20000 - 120000,1328,94,9299,True,False,False,['Indie'],['Example Studio'],['Demo Publisher'],407
+8000092,Demo Game 093,2007-10-15,4.99,14519,5422,100000 - 300000,1696,62,3531,True,False,True,"['Adventure', 'Simulation']",['Example Studio'],['Demo Publisher'],4858
+8000093,Demo Game 094,2020-07-20,29.99,21860,2526,0 - 50000,224,45,3349,True,True,True,['Simulation'],['Example Studio'],['Demo Publisher'],2371
+8000094,Demo Game 095,2015-03-05,0.0,253,4074,500000 - 700000,1557,79,3770,True,False,False,"['Adventure', 'Sports']",['Example Studio'],['Demo Publisher'],346
+8000095,Demo Game 096,2018-10-14,0.0,15065,7546,0 - 100000,2348,70,6843,True,True,False,"['Indie', 'Racing']",['Example Studio'],['Demo Publisher'],2964
+8000096,Demo Game 097,2007-07-17,14.99,3468,1993,100000 - 600000,322,70,5083,True,False,True,['Adventure'],['Example Studio'],['Demo Publisher'],4181
+8000097,Demo Game 098,2025-06-24,0.0,17386,4177,20000 - 120000,2643,54,3871,True,True,False,['Puzzle'],['Example Studio'],['Demo Publisher'],1252
+8000098,Demo Game 099,2025-08-25,0.0,5804,7792,1000000 - 1200000,2309,93,9494,True,False,False,"['Puzzle', 'Strategy', 'Casual']",['Example Studio'],['Demo Publisher'],1236
+8000099,Demo Game 100,2019-05-19,0.0,15365,3622,500000 - 600000,230,67,8312,True,True,False,['Action'],['Example Studio'],['Demo Publisher'],3020
+8000100,Demo Game 101,2014-10-20,0.0,21124,7079,1000000 - 1020000,2076,69,7581,True,False,False,"['Action', 'Racing', 'RPG']",['Example Studio'],['Demo Publisher'],2633
+8000101,Demo Game 102,2024-02-26,19.99,16428,1235,0 - 200000,1406,90,1381,True,False,True,['Racing'],['Example Studio'],['Demo Publisher'],3599
+8000102,Demo Game 103,2021-05-13,29.99,19982,1300,50000 - 150000,1674,94,5543,True,False,True,"['Strategy', 'Adventure', 'Puzzle']",['Example Studio'],['Demo Publisher'],774
+8000103,Demo Game 104,2022-03-11,49.99,12666,2327,50000 - 550000,333,82,2317,True,False,False,"['Sports', 'Indie', 'Adventure']",['Example Studio'],['Demo Publisher'],2536
+8000104,Demo Game 105,2022-11-23,14.99,21085,6485,50000 - 100000,2807,78,1531,True,False,False,"['Action', 'Strategy']",['Example Studio'],['Demo Publisher'],2530
+8000105,Demo Game 106,2010-04-08,2.99,11197,7763,1000000 - 1200000,563,54,1264,True,True,False,"['Casual', 'Puzzle', 'Action']",['Example Studio'],['Demo Publisher'],2758
+8000106,Demo Game 107,2024-03-27,0.0,19570,3086,20000 - 70000,2837,94,2712,True,False,True,"['RPG', 'Racing']",['Example Studio'],['Demo Publisher'],2334
+8000107,Demo Game 108,2019-04-12,2.99,17498,1959,50000 - 250000,2778,81,7218,True,False,False,"['Casual', 'Puzzle']",['Example Studio'],['Demo Publisher'],3429
+8000108,Demo Game 109,2010-01-21,2.99,19813,1133,1000000 - 1100000,1968,68,9085,True,False,False,"['Adventure', 'Simulation', 'Puzzle']",['Example Studio'],['Demo Publisher'],1313
+8000109,Demo Game 110,2013-02-08,19.99,16821,1207,1000000 - 1200000,1847,67,436,True,False,False,"['RPG', 'Sports']",['Example Studio'],['Demo Publisher'],668
+8000110,Demo Game 111,2016-03-05,2.99,923,2610,0 - 100000,156,63,7740,True,False,True,"['Racing', 'Puzzle', 'Action']",['Example Studio'],['Demo Publisher'],649
+8000111,Demo Game 112,2005-12-20,4.99,7066,6840,20000 - 520000,2161,72,1821,True,False,True,['Action'],['Example Studio'],['Demo Publisher'],1953
+8000112,Demo Game 113,2018-08-20,49.99,20408,3744,0 - 20000,2195,46,8443,True,False,False,"['Sports', 'Action']",['Example Studio'],['Demo Publisher'],2890
+8000113,Demo Game 114,2012-09-12,39.99,13650,1534,500000 - 520000,277,78,8914,True,False,False,"['Action', 'Sports', 'Racing']",['Example Studio'],['Demo Publisher'],356
+8000114,Demo Game 115,2025-06-26,14.99,12232,2077,500000 - 520000,276,67,3950,True,False,False,"['Strategy', 'Indie', 'Action']",['Example Studio'],['Demo Publisher'],2886
+8000115,Demo Game 116,2022-12-16,9.99,21063,1434,1000000 - 1200000,2587,56,2209,True,True,False,"['Action', 'Simulation']",['Example Studio'],['Demo Publisher'],1651
+8000116,Demo Game 117,2006-07-27,2.99,1373,2585,50000 - 550000,2224,75,4150,True,True,False,"['Strategy', 'Action']",['Example Studio'],['Demo Publisher'],2719
+8000117,Demo Game 118,2013-07-11,0.0,12059,3579,100000 - 300000,765,76,8151,True,True,False,"['Adventure', 'Sports']",['Example Studio'],['Demo Publisher'],646
+8000118,Demo Game 119,2018-02-03,39.99,5913,4468,50000 - 150000,1343,87,4843,True,True,False,"['Indie', 'Racing']",['Example Studio'],['Demo Publisher'],2879
+8000119,Demo Game 120,2019-07-09,0.0,23816,7127,50000 - 550000,2619,95,939,True,True,False,"['Casual', 'Indie']",['Example Studio'],['Demo Publisher'],255
+8000120,Demo Game 121,2009-03-03,39.99,22219,6400,100000 - 120000,966,94,6001,True,True,False,['Puzzle'],['Example Studio'],['Demo Publisher'],1256
+8000121,Demo Game 122,2019-10-05,9.99,12190,3636,1000000 - 1020000,2168,68,6521,True,True,False,['Action'],['Example Studio'],['Demo Publisher'],1524
+8000122,Demo Game 123,2020-05-25,29.99,12680,7483,200000 - 220000,1066,90,7311,True,True,False,"['Racing', 'RPG', 'Adventure']",['Example Studio'],['Demo Publisher'],1111
+8000123,Demo Game 124,2007-02-26,19.99,5657,7361,500000 - 700000,2793,65,5692,True,False,False,"['Simulation', 'Indie']",['Example Studio'],['Demo Publisher'],1426
+8000124,Demo Game 125,2016-04-26,29.99,7347,994,20000 - 70000,2023,46,5912,True,False,False,"['Indie', 'Adventure', 'Casual']",['Example Studio'],['Demo Publisher'],2533
+8000125,Demo Game 126,2017-07-27,59.99,23555,3921,200000 - 400000,2354,49,2053,True,False,False,"['Racing', 'Casual']",['Example Studio'],['Demo Publisher'],2822
+8000126,Demo Game 127,2009-07-17,29.99,20964,4815,20000 - 70000,226,52,8488,True,True,True,"['RPG', 'Strategy']",['Example Studio'],['Demo Publisher'],4250
+8000127,Demo Game 128,2014-05-05,0.0,8211,1608,500000 - 1000000,2560,64,8740,True,True,False,"['Puzzle', 'Indie', 'Casual']",['Example Studio'],['Demo Publisher'],4957
+8000128,Demo Game 129,2015-02-02,39.99,1349,6760,1000000 - 1020000,2627,94,9449,True,True,True,"['Sports', 'Action', 'Racing']",['Example Studio'],['Demo Publisher'],4469
+8000129,Demo Game 130,2014-05-15,49.99,9899,3956,20000 - 220000,298,89,981,True,True,False,"['RPG', 'Strategy']",['Example Studio'],['Demo Publisher'],4969
+8000130,Demo Game 131,2009-07-05,9.99,23539,2615,500000 - 600000,1517,77,9202,True,True,True,['Simulation'],['Example Studio'],['Demo Publisher'],3683
+8000131,Demo Game 132,2012-10-14,0.0,3172,414,50000 - 250000,1016,55,5364,True,False,False,['Indie'],['Example Studio'],['Demo Publisher'],4081
+8000132,Demo Game 133,2021-01-03,19.99,16343,7201,50000 - 250000,1610,77,7491,True,False,True,"['Action', 'Puzzle']",['Example Studio'],['Demo Publisher'],2304
+8000133,Demo Game 134,2020-09-01,39.99,21438,5509,100000 - 200000,440,72,2194,True,False,False,"['Strategy', 'Action']",['Example Studio'],['Demo Publisher'],3281
+8000134,Demo Game 135,2006-05-03,39.99,18409,1594,50000 - 550000,1582,77,7378,True,False,False,"['Puzzle', 'Adventure', 'Indie']",['Example Studio'],['Demo Publisher'],792
+8000135,Demo Game 136,2017-04-20,9.99,11111,4569,50000 - 100000,2085,70,8193,True,True,True,"['Strategy', 'Racing', 'Casual']",['Example Studio'],['Demo Publisher'],1220
+8000136,Demo Game 137,2024-03-13,29.99,4580,2686,200000 - 300000,2525,92,4902,True,False,False,"['Casual', 'Racing', 'Simulation']",['Example Studio'],['Demo Publisher'],3890
+8000137,Demo Game 138,2005-10-10,9.99,10854,5519,0 - 200000,2970,89,436,True,False,False,"['Puzzle', 'RPG', 'Action']",['Example Studio'],['Demo Publisher'],4780
+8000138,Demo Game 139,2020-07-05,0.0,17178,5152,500000 - 1000000,2788,60,517,True,False,False,['Action'],['Example Studio'],['Demo Publisher'],3612
+8000139,Demo Game 140,2015-07-17,14.99,4962,3382,500000 - 550000,2504,75,1020,True,False,False,"['Strategy', 'Racing', 'Sports']",['Example Studio'],['Demo Publisher'],2570
+8000140,Demo Game 141,2010-11-25,19.99,17469,2804,200000 - 300000,2952,88,4331,True,False,True,['Simulation'],['Example Studio'],['Demo Publisher'],4571
+8000141,Demo Game 142,2014-12-23,2.99,9752,6317,50000 - 100000,2002,65,7861,True,True,False,"['Simulation', 'Puzzle', 'Adventure']",['Example Studio'],['Demo Publisher'],4697
+8000142,Demo Game 143,2022-05-02,14.99,12928,6704,50000 - 100000,1178,90,1294,True,True,False,"['Racing', 'RPG']",['Example Studio'],['Demo Publisher'],1655
+8000143,Demo Game 144,2022-02-20,4.99,18416,5703,50000 - 100000,2403,60,3972,True,True,False,['RPG'],['Example Studio'],['Demo Publisher'],430
+8000144,Demo Game 145,2008-11-25,14.99,10823,5876,100000 - 120000,563,45,9016,True,False,True,"['Racing', 'Puzzle', 'RPG']",['Example Studio'],['Demo Publisher'],2353
+8000145,Demo Game 146,2015-11-19,4.99,21164,484,1000000 - 1020000,951,79,611,True,False,True,['Action'],['Example Studio'],['Demo Publisher'],3252
+8000146,Demo Game 147,2020-01-01,0.0,24543,7881,1000000 - 1100000,1222,81,9875,True,True,False,"['Racing', 'Casual']",['Example Studio'],['Demo Publisher'],4295
+8000147,Demo Game 148,2020-02-11,0.0,16522,3834,50000 - 100000,665,91,7518,True,False,False,['Strategy'],['Example Studio'],['Demo Publisher'],2416
+8000148,Demo Game 149,2023-11-13,49.99,24814,1582,20000 - 520000,1751,77,5372,True,True,False,['Indie'],['Example Studio'],['Demo Publisher'],3911
+8000149,Demo Game 150,2015-08-25,2.99,223,2136,100000 - 150000,1093,66,4947,True,False,False,"['Strategy', 'RPG']",['Example Studio'],['Demo Publisher'],508
+8000150,Demo Game 151,2008-12-25,19.99,10053,1308,100000 - 600000,1273,89,1923,True,False,False,"['Puzzle', 'RPG']",['Example Studio'],['Demo Publisher'],1795
+8000151,Demo Game 152,2009-06-14,19.99,5019,3727,500000 - 1000000,2875,80,7714,True,False,False,['RPG'],['Example Studio'],['Demo Publisher'],4880
+8000152,Demo Game 153,2007-02-19,29.99,14639,4326,500000 - 600000,459,48,8972,True,False,True,"['Indie', 'Puzzle', 'Strategy']",['Example Studio'],['Demo Publisher'],4262
+8000153,Demo Game 154,2019-08-03,0.0,22291,1682,500000 - 1000000,2090,73,911,True,False,False,"['Puzzle', 'Action']",['Example Studio'],['Demo Publisher'],4577
+8000154,Demo Game 155,2019-05-27,49.99,10098,5925,0 - 200000,12,92,3570,True,False,True,"['Adventure', 'Casual']",['Example Studio'],['Demo Publisher'],493
+8000155,Demo Game 156,2007-03-25,19.99,1039,2351,100000 - 150000,2627,91,6887,True,True,False,"['Sports', 'Puzzle']",['Example Studio'],['Demo Publisher'],657
+8000156,Demo Game 157,2022-03-18,0.0,21415,7047,50000 - 70000,1609,78,2086,True,False,True,['Action'],['Example Studio'],['Demo Publisher'],2444
+8000157,Demo Game 158,2019-07-27,49.99,23563,4460,100000 - 600000,940,60,7546,True,True,False,"['Adventure', 'Action', 'Sports']",['Example Studio'],['Demo Publisher'],128
+8000158,Demo Game 159,2012-08-20,2.99,2204,826,200000 - 220000,2752,90,797,True,True,True,"['RPG', 'Casual']",['Example Studio'],['Demo Publisher'],1779
+8000159,Demo Game 160,2006-06-19,0.0,16511,2369,20000 - 520000,2449,94,5253,True,True,False,"['Casual', 'RPG', 'Sports']",['Example Studio'],['Demo Publisher'],2461
+8000160,Demo Game 161,2013-11-22,0.0,18242,7770,200000 - 250000,1749,80,8120,True,True,False,"['Sports', 'Casual', 'Strategy']",['Example Studio'],['Demo Publisher'],3410
+8000161,Demo Game 162,2018-08-08,0.0,9826,3083,20000 - 520000,923,64,2365,True,False,False,"['Sports', 'Puzzle', 'Indie']",['Example Studio'],['Demo Publisher'],3181
+8000162,Demo Game 163,2012-08-28,4.99,6662,2705,500000 - 520000,1519,50,8775,True,False,True,"['Sports', 'Action']",['Example Studio'],['Demo Publisher'],596
+8000163,Demo Game 164,2011-08-07,39.99,23734,5500,200000 - 250000,1363,64,251,True,True,True,"['Adventure', 'Racing', 'RPG']",['Example Studio'],['Demo Publisher'],4951
+8000164,Demo Game 165,2011-07-15,14.99,7842,4522,50000 - 150000,2185,86,5886,True,True,False,"['Racing', 'Adventure']",['Example Studio'],['Demo Publisher'],3846
+8000165,Demo Game 166,2015-10-28,2.99,12147,2563,100000 - 120000,906,92,2390,True,True,False,"['Puzzle', 'Sports', 'Simulation']",['Example Studio'],['Demo Publisher'],1248
+8000166,Demo Game 167,2011-08-18,9.99,7537,3111,200000 - 250000,2681,88,5530,True,True,False,"['Racing', 'Puzzle', 'Indie']",['Example Studio'],['Demo Publisher'],2885
+8000167,Demo Game 168,2010-09-21,0.0,23603,4477,100000 - 150000,240,78,554,True,False,True,"['Action', 'Puzzle', 'Sports']",['Example Studio'],['Demo Publisher'],1126
+8000168,Demo Game 169,2025-04-17,2.99,2227,5793,20000 - 40000,1867,68,990,True,False,False,"['Racing', 'Puzzle', 'Action']",['Example Studio'],['Demo Publisher'],54
+8000169,Demo Game 170,2022-12-09,29.99,13478,97,0 - 500000,2194,63,280,True,False,False,"['Indie', 'Adventure']",['Example Studio'],['Demo Publisher'],789
+8000170,Demo Game 171,2021-05-27,0.0,7896,1572,200000 - 700000,1451,62,6502,True,True,False,"['Puzzle', 'RPG']",['Example Studio'],['Demo Publisher'],1850
+8000171,Demo Game 172,2014-02-13,49.99,2641,5355,1000000 - 1020000,1553,69,9055,True,False,False,"['Indie', 'Adventure', 'Racing']",['Example Studio'],['Demo Publisher'],3554
+8000172,Demo Game 173,2025-01-08,9.99,18541,7028,0 - 500000,865,89,9286,True,False,True,['Simulation'],['Example Studio'],['Demo Publisher'],4448
+8000173,Demo Game 174,2023-01-07,49.99,1078,1469,1000000 - 1100000,2404,54,6525,True,False,False,"['RPG', 'Sports', 'Strategy']",['Example Studio'],['Demo Publisher'],3144
+8000174,Demo Game 175,2009-01-04,59.99,23729,642,200000 - 300000,1790,59,1245,True,True,False,"['Sports', 'Strategy', 'Action']",['Example Studio'],['Demo Publisher'],2239
+8000175,Demo Game 176,2019-07-06,19.99,7475,2914,200000 - 400000,2784,82,6227,True,True,False,['Adventure'],['Example Studio'],['Demo Publisher'],672
+8000176,Demo Game 177,2013-12-13,0.0,12451,5830,1000000 - 1050000,1297,68,1745,True,True,False,"['Strategy', 'Simulation']",['Example Studio'],['Demo Publisher'],837
+8000177,Demo Game 178,2009-09-17,0.0,6140,3530,100000 - 600000,1671,51,430,True,True,False,"['Puzzle', 'Strategy', 'Sports']",['Example Studio'],['Demo Publisher'],101
+8000178,Demo Game 179,2014-04-19,14.99,12707,6382,0 - 500000,2134,55,6237,True,True,False,"['Racing', 'Indie']",['Example Studio'],['Demo Publisher'],518
+8000179,Demo Game 180,2010-02-12,14.99,9042,3449,50000 - 250000,1030,60,8123,True,False,True,['Indie'],['Example Studio'],['Demo Publisher'],2495
+8000180,Demo Game 181,2005-06-15,14.99,10886,6894,200000 - 400000,1371,72,9738,True,True,False,"['RPG', 'Racing', 'Strategy']",['Example Studio'],['Demo Publisher'],1455
+8000181,Demo Game 182,2017-10-26,9.99,9550,6020,500000 - 700000,992,65,6161,True,True,False,"['Adventure', 'RPG']",['Example Studio'],['Demo Publisher'],4851
+8000182,Demo Game 183,2022-12-15,0.0,22338,6288,200000 - 220000,2901,58,7183,True,False,False,['Sports'],['Example Studio'],['Demo Publisher'],4090
+8000183,Demo Game 184,2009-12-14,49.99,9923,1982,50000 - 100000,1544,49,7357,True,False,False,"['Casual', 'Puzzle']",['Example Studio'],['Demo Publisher'],3426
+8000184,Demo Game 185,2022-10-21,0.0,11781,5747,1000000 - 1500000,348,51,4067,True,False,False,"['Puzzle', 'Action', 'Sports']",['Example Studio'],['Demo Publisher'],2716
+8000185,Demo Game 186,2018-09-24,0.0,345,807,50000 - 100000,2124,80,9511,True,False,True,"['Sports', 'Racing']",['Example Studio'],['Demo Publisher'],4821
+8000186,Demo Game 187,2021-05-14,0.0,11303,201,100000 - 120000,351,52,2321,True,True,False,['Casual'],['Example Studio'],['Demo Publisher'],3956
+8000187,Demo Game 188,2016-06-03,19.99,3198,3589,500000 - 700000,1229,47,1885,True,True,False,['Indie'],['Example Studio'],['Demo Publisher'],1998
+8000188,Demo Game 189,2021-07-15,0.0,18084,1311,50000 - 550000,949,70,3022,True,True,False,"['Action', 'RPG']",['Example Studio'],['Demo Publisher'],3682
+8000189,Demo Game 190,2023-04-09,14.99,12741,36,500000 - 550000,2882,95,1025,True,False,False,"['Indie', 'Strategy', 'Casual']",['Example Studio'],['Demo Publisher'],1614
+8000190,Demo Game 191,2019-09-21,0.0,8596,5494,1000000 - 1200000,1283,83,6367,True,False,False,"['Strategy', 'Racing']",['Example Studio'],['Demo Publisher'],1413
+8000191,Demo Game 192,2014-06-04,39.99,19338,694,500000 - 550000,977,64,1916,True,True,False,"['Sports', 'Puzzle', 'Indie']",['Example Studio'],['Demo Publisher'],4708
+8000192,Demo Game 193,2017-12-21,14.99,6086,3986,500000 - 1000000,709,80,2733,True,False,True,"['Racing', 'Action']",['Example Studio'],['Demo Publisher'],2941
+8000193,Demo Game 194,2005-09-17,19.99,4473,1598,1000000 - 1200000,2674,76,6703,True,False,False,"['Racing', 'Indie']",['Example Studio'],['Demo Publisher'],677
+8000194,Demo Game 195,2023-05-08,0.0,24938,1806,50000 - 70000,2202,63,2755,True,False,False,"['Casual', 'Puzzle']",['Example Studio'],['Demo Publisher'],927
+8000195,Demo Game 196,2023-09-27,0.0,8778,6349,200000 - 300000,170,93,7231,True,False,False,['RPG'],['Example Studio'],['Demo Publisher'],2438
+8000196,Demo Game 197,2006-08-28,19.99,8611,2855,1000000 - 1020000,480,94,3882,True,True,False,"['Strategy', 'Sports', 'Indie']",['Example Studio'],['Demo Publisher'],1140
+8000197,Demo Game 198,2011-05-20,2.99,1945,4670,50000 - 550000,2206,55,5302,True,False,False,"['Simulation', 'Casual', 'Adventure']",['Example Studio'],['Demo Publisher'],1110
+8000198,Demo Game 199,2018-12-28,0.0,9087,7102,500000 - 550000,543,60,2396,True,False,False,"['Sports', 'Racing', 'Indie']",['Example Studio'],['Demo Publisher'],4730
+8000199,Demo Game 200,2025-02-21,4.99,20572,3393,100000 - 300000,381,70,8447,True,False,False,"['Racing', 'Puzzle']",['Example Studio'],['Demo Publisher'],2681
+8000200,Demo Game 201,2023-11-22,0.0,24009,763,500000 - 700000,2856,67,1037,True,False,False,"['RPG', 'Racing']",['Example Studio'],['Demo Publisher'],2199
+8000201,Demo Game 202,2015-10-28,4.99,11067,4483,200000 - 250000,1987,95,5631,True,False,False,['Adventure'],['Example Studio'],['Demo Publisher'],3764
+8000202,Demo Game 203,2005-07-07,0.0,5176,3615,100000 - 120000,2820,53,4945,True,True,False,"['Adventure', 'Strategy']",['Example Studio'],['Demo Publisher'],2051
+8000203,Demo Game 204,2007-01-13,9.99,21774,7403,500000 - 550000,2562,64,3836,True,False,True,['Action'],['Example Studio'],['Demo Publisher'],1748
+8000204,Demo Game 205,2020-11-15,0.0,4348,4863,20000 - 520000,38,45,5629,True,False,False,"['Indie', 'Racing']",['Example Studio'],['Demo Publisher'],580
+8000205,Demo Game 206,2012-02-11,14.99,2927,5986,1000000 - 1020000,1505,64,2246,True,True,False,['Indie'],['Example Studio'],['Demo Publisher'],560
+8000206,Demo Game 207,2021-08-12,39.99,277,4999,500000 - 550000,2959,58,2480,True,False,False,"['RPG', 'Adventure']",['Example Studio'],['Demo Publisher'],823
+8000207,Demo Game 208,2009-07-11,0.0,19319,5980,100000 - 200000,572,60,4537,True,False,True,"['Puzzle', 'Simulation', 'Action']",['Example Studio'],['Demo Publisher'],2471
+8000208,Demo Game 209,2011-05-21,29.99,19887,4174,20000 - 220000,223,95,3921,True,False,True,"['Puzzle', 'Adventure']",['Example Studio'],['Demo Publisher'],4327
+8000209,Demo Game 210,2005-07-12,9.99,10370,1081,100000 - 600000,2237,88,2830,True,False,False,['Action'],['Example Studio'],['Demo Publisher'],4811
+8000210,Demo Game 211,2007-07-17,0.0,8591,1767,0 - 20000,1173,85,8209,True,False,False,"['Adventure', 'Casual']",['Example Studio'],['Demo Publisher'],4404
+8000211,Demo Game 212,2024-09-07,0.0,9092,684,50000 - 70000,636,79,5353,True,True,False,"['Adventure', 'Simulation', 'Sports']",['Example Studio'],['Demo Publisher'],1954
+8000212,Demo Game 213,2006-08-20,2.99,2825,7574,100000 - 120000,2493,48,5067,True,False,False,['Adventure'],['Example Studio'],['Demo Publisher'],103
+8000213,Demo Game 214,2009-09-17,59.99,371,1342,100000 - 200000,2952,61,2735,True,True,False,"['Adventure', 'Action']",['Example Studio'],['Demo Publisher'],2744
+8000214,Demo Game 215,2018-11-03,4.99,17165,523,50000 - 550000,2032,74,8368,True,True,False,"['Indie', 'Strategy', 'Puzzle']",['Example Studio'],['Demo Publisher'],2089
+8000215,Demo Game 216,2008-12-17,39.99,22089,5921,0 - 50000,10,47,201,True,True,False,"['Indie', 'Puzzle']",['Example Studio'],['Demo Publisher'],289
+8000216,Demo Game 217,2022-06-08,59.99,24270,5371,100000 - 150000,1704,91,5241,True,True,True,"['Adventure', 'Casual']",['Example Studio'],['Demo Publisher'],431
+8000217,Demo Game 218,2010-08-28,2.99,16900,376,100000 - 120000,1156,94,5090,True,True,False,['Strategy'],['Example Studio'],['Demo Publisher'],1643
+8000218,Demo Game 219,2014-08-12,39.99,9958,6058,200000 - 250000,2423,76,3201,True,False,False,['Indie'],['Example Studio'],['Demo Publisher'],52
+8000219,Demo Game 220,2018-06-01,0.0,7634,4436,50000 - 70000,2692,69,5038,True,True,False,['Sports'],['Example Studio'],['Demo Publisher'],4030
