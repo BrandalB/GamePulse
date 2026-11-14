@@ -4,6 +4,8 @@ A data analytics dashboard for exploring historical Steam catalog trends using *
 
 GamePulse lets users investigate game releases, genres, prices, player reviews, estimated ownership, and studio/publisher catalogs. It uses the imported snapshot; it is **not a live Steam sales tracker**.
 
+GamePulse Live Link: https://gamepulse-brandalb.streamlit.app/
+
 ## Dashboard Screenshots
 
 ### Overview
