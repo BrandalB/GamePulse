@@ -1,8 +1,34 @@
-# GamePulse — Steam Market Intelligence
+# GamePulse: Steam Market Intelligence
 
 A data analytics dashboard for exploring historical Steam catalog trends using **Python, Pandas, SQL, Streamlit, and Plotly**.
 
 GamePulse lets users investigate game releases, genres, prices, player reviews, estimated ownership, and studio/publisher catalogs. It uses the imported snapshot; it is **not a live Steam sales tracker**.
+
+## Dashboard Screenshots
+
+### Overview
+![GamePulse Overview](screenshots/Overview.png)
+
+### Game Explorer
+![Game Explorer](screenshots/Explorer.png)
+
+### Genres & Pricing
+![Genres and Pricing](screenshots/Genres-and-Pricing.png)
+
+### Reception & Reach
+![Reception and Reach](screenshots/Receptions-and-Reach.png)
+
+### Market Insights
+![Market Insights](screenshots/Insights.png)
+
+### Genre Trends
+![Genre Trends](screenshots/Genre-Trends.png)
+
+### Studios & Publishers
+![Studios and Publishers](screenshots/Studios.png)
+
+### Findings & Case Study
+![Case Study](screenshots/Case-Study.png)
 
 ## Dashboard features
 
@@ -20,7 +46,7 @@ GamePulse lets users investigate game releases, genres, prices, player reviews, 
 
 The interface uses clickable top navigation tabs and sidebar filters.
 
-## Quick start — Windows / VS Code
+## Quick start: Windows / VS Code
 
 1. Clone the repository, then open its folder in VS Code.
 2. Create and activate a Python environment:
